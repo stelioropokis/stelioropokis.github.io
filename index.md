@@ -1,5 +1,5 @@
 ---
-alt_title: ""
+alt_title: Bio
 ---
 # Stelio Ropokis
 
