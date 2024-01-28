@@ -2,19 +2,17 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+h1 {
+    font-size: 24px; // Adjust the size as needed
+}
+
+.pagetitle {
+    font-size: 24px; // Adjust the size as needed
+}
+
 @charset "utf-8";
 
 // Theme skin
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
-
-h1 {
-    font-size: 24px; // Adjust the size as needed
-}
-
-
-.title {
-    font-size: 24px; // Adjust the size as needed
-}
-
