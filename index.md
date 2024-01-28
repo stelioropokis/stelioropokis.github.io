@@ -1,4 +1,5 @@
 ---
+alt_title: Bio
 ---
 
 Stelio is a dynamic leader and strategist, known for challenging the status quo with his creativity. 
