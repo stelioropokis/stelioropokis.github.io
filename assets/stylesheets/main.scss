@@ -14,6 +14,13 @@ h1 {
         font-size: 24px; // Adjust the size as needed
 }
 
+.intro-title {
+  @include fluid-type($min-vw, $max-vw, 10px, 10px);
+  margin-bottom: 1rem;
+  color: tint($text-color, 25%);
+  line-height: 1;
+}
+
 @charset "utf-8";
 
 // Theme skin
