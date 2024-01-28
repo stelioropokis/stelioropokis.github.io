@@ -1,5 +1,4 @@
 ---
-alt_title: Stelio Ropokis
 ---
 
 Stelio is a dynamic leader and strategist, known for challenging the status quo with his creativity. 
