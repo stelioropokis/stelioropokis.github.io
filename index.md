@@ -10,6 +10,7 @@ Stelio's strategic mindset and keen insight into technological trends empower hi
 Email: stelioropokis@gmail.com
 
 [CV](./cv.pdf)
+
 [LinkedIn](./www.linkedin.com/in/stelioropokis)
 
 
